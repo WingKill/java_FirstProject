@@ -1,6 +1,7 @@
-package com.java.run;
+package com.java.practice;
 
-public class RunningMain {
+// 연습파일.
+public class RunningMain { 
 	public static void main(String[] args) {
 		System.out.println("-------------------------------------------------------");	
 		System.out.println("  |  전체 목록   | 내 게시글 제목    |  게시글 내용   | 게시글 작성자  |");
@@ -10,7 +11,7 @@ public class RunningMain {
 		System.out.println("-------------------------------------------------------");
 		// 변수를 넣을 자리 구분해놓음
 		if(true) {
-			
+			System.out.println("  |         |             |          |          |" );
 		}else {
 			System.out.println("  |"+
 					"|"+
