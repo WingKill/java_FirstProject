@@ -1,6 +1,6 @@
 package com.java.practice;
 
-// 연습파일.
+// 연습파일. 사용치않음. 연습만 함. 틀만 생각하기.
 public class RunningMain { 
 	public static void main(String[] args) {
 		System.out.println("-------------------------------------------------------");	
